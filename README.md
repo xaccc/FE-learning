@@ -18,7 +18,7 @@
 - [CSS2.1](http://www.w3.org/TR/CSS2/#minitoc)，[CSS3](http://www.w3.org/TR/2001/WD-css3-roadmap-20010523/#table)规范，与HTML结合实现各种布局、效果
 - [Ecma-262](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)定义的javascript的语言核心，原生[客户端javascript](https://developer.mozilla.org/en-US/docs/Web/API)，[DOM操作](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)，[HTML5新增功能](https://developer.mozilla.org/en/docs/web/Guide/HTML/HTML5)
 - 一个成熟的客户端javascript库，推荐[jquery](http://jquery.com/)
-- 一门服务器端语言，最基本要求是实现简单的功能模拟，如php，Java EE
+- 一门服务器端语言：如果有服务器端开发经验，使用已经会的语言即可，如果没有服务器端开发经验，熟悉Java可以选择Servlet，不熟悉的可以选PHP，能实现简单登陆注册功能就足够支持前端开发了，后续可能需要继续学习，最基本要求是实现简单的功能模拟，
 - [HTTP](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
 
 在掌握以上基础技能之后，工作中遇到需要的技术也能快速学习。
@@ -32,7 +32,6 @@
 - **浏览器**：推荐[Google Chrome](http://www.google.cn/chrome/?hl=zh-CN&standalone=1)，更新快，对前端各种标准提供了非常好的支持
 - **调试工具**：推荐Chrome自带的[Chrome develop tools](https://developer.chrome.com/devtools)，可以轻松查看DOM结构、样式，通过控制台输出调试信息，调试javascript，查看网络等
 - **辅助工具**：PhotoShop编辑图片、取色，fireworks量尺寸，AlloDesigner对比尺寸，以及前面的到的Chrome develop tools，这里是一个[简单教程](http://qiu-deqing.github.io/toolpage/front-end-develop-tools.html)
-- **服务器端**：如果有服务器端开发经验，使用已经会的语言即可，如果没有服务器端开发经验，熟悉Java可以选择Servlet，不熟悉的可以选PHP
 - **翻墙工具**：使用goagent + chrome很方便。遇到问题时找不到合适的中文资料，可以考虑Google搜索对应的英文资料。
 
 ## 学习方法和学习目标
@@ -68,7 +67,7 @@
     - [www.sitepoint.com](http://www.sitepoint.com/javascript/)
     - [http://alistapart.com/](http://alistapart.com/)
 7. 原生javascript是学习前端需要重点掌握的技能，在掌握原生javascript的基础上推荐熟练掌握jQuery，在实际工作中用处很大，这方面的书籍有[Pro jQuery](http://www.amazon.com/Pro-jQuery-Experts-Voice-Development/dp/1430263881/ref=sr_1_1?s=books&ie=UTF8&qid=1410099103&sr=1-1&keywords=pro+jquery)和[Learning jQuery](http://www.amazon.com/Learning-jQuery-Fourth-Jonathan-Chaffer/dp/178216314X/ref=sr_1_1?s=books&ie=UTF8&qid=1410099243&sr=1-1&keywords=learning+jquery)
-8. 现在都流行将自己的代码放到[https://github.com/](https://github.com/)上，今年阿里巴巴前端在线笔试有一个题就是填写个人github主页。建一个github账号，保存平时学习中的各种代码和项目也是很不错的。
+8. 可以将自己的代码放到[https://github.com/](https://github.com/)上。建一个github账号，保存平时学习中的各种代码和项目也是很不错的。
 9. 有了一定基础之后可以搭建一个个人博客，记录学习过程中遇到的问题和解决方法，方便自己查阅也为其他人提供了帮助。最简单的方法就是去类似[http://www.cnblogs.com/](http://www.cnblogs.com/)或者[http://www.csdn.net/](http://www.csdn.net/)这样的网站注册账号，方便实用
 10. 经常实用Google搜索英文资料应该经常找到来自[http://stackoverflow.com/](http://stackoverflow.com/)的高质量答案，与到问题可以直接在这里搜索，如果有精力，注册一个账号为别人解答问题也能极大提高个人能力。
 11. 经典书籍熟读之后，可以打开前面必备基础技能部分的链接。认真读对应标准，全面掌握知识
@@ -84,14 +83,31 @@
 - [requirejs](http://requirejs.org/)：AMD规范的模块加载器，前端模块化趋势的必备工具
 - [Node.js](http://nodejs.org/)：JavaScript也可以做后台，前端工程师地位更上一步
 - [AngularJS](https://angularjs.org/)：做Single Page Application的好工具
-- [移动端web开发](https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile)：智能手机的普及让PC端变得冷清，移动端的流量正在逐步超过PC端
+- [移动端web开发](https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile)：智能手机的普及让移动端的流量正在逐步赶超PC端
+- [Javascript内存管理](https://developer.chrome.com/devtools/docs/javascript-memory-profiling?hl=figoogle)：SPA长期运行需要注意内存泄露的问题
+- [High Performance JavaScript(Build Faster Web Application Interfaces)](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1?s=books&ie=UTF8&qid=undefined&sr=1-1&keywords=high+performance+javascript)
+- [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)：重要技能
+- 读jQuery源码
 
 
 ## 书籍推荐
 
-以下是一些读过的觉得不错的书籍、网站、教程。排名不分先后
+以下是一些不错的书籍、网站、教程。
 
 - [Ajax完全手册](http://www.amazon.cn/Ajax%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C-%E6%B3%A2%E7%BB%B4%E5%B0%94/dp/B001N6R0Q2/ref=sr_1_2?ie=UTF8&qid=1410104972&sr=8-2&keywords=ajax%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C)：一本Ajax很不错的书，例子多，实现了一个Ajax库
 - [Pro AngularJS](http://www.amazon.com/Pro-AngularJS-Experts-Voice-Development/dp/1430264489/ref=sr_1_1?s=books&ie=UTF8&qid=1410105152&sr=1-1&keywords=pro+angularjs)：AngularJS很好的书籍
 - [Pro jQuery](http://www.amazon.com/Pro-jQuery-Experts-Voice-Development/dp/1430263881/ref=sr_1_1?s=books&ie=UTF8&qid=1410099103&sr=1-1&keywords=pro+jquery)和[Learning jQuery](http://www.amazon.com/Learning-jQuery-Fourth-Jonathan-Chaffer/dp/178216314X/ref=sr_1_1?s=books&ie=UTF8&qid=1410099243&sr=1-1&keywords=learning+jquery)：两本jQuery书籍
+- [精通CSS：高级web标准解决方法](http://www.amazon.com/CSS-Mastery-Advanced-Standards-Solutions/dp/1430223979/ref=sr_1_1?ie=UTF8&qid=1410137090&sr=8-1&keywords=css+mastery+advanced+web+standards+solutions)：CSS实用技能
+- [JavaScript Memory Profiling](https://developer.chrome.com/devtools/docs/javascript-memory-profiling?hl=figoogle)
+- [HTML5 canvas](http://www.amazon.com/HTML5-Canvas-Steve-Fulton/dp/1449334989/ref=sr_1_1?ie=UTF8&qid=undefined&sr=8-1&keywords=html5+canvas)：canvas是HTML5带来的一个很棒的特性，可以做很多事情
+- [Pro Node.js for Developers](http://www.amazon.com/Pro-Node-js-Developers-Colin-Ihrig/dp/1430258608/ref=sr_1_1?ie=UTF8&qid=undefined&sr=8-1&keywords=pro+nodejs+for+developers)：node发展太快。里面很多API都过时了，尽量参考官方API，不过还是值得一看
+- [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572/ref=sr_1_1?ie=UTF8&qid=1410138522&sr=8-1&keywords=node+js+in+action)：很不错的Node入门书籍
+- [Single Page Web Applications: JavaScript end-to-end](http://www.amazon.com/Single-Page-Applications-end---end/dp/1617290750/ref=sr_1_1?s=books&ie=UTF8&qid=1410138650&sr=1-1&keywords=single+page+application)：一步步完成简单SPA
 
+
+## 一些个人经验
+
+- 动手能力和理论知识都很重要
+- 前端开发有很多细节需要不断积累
+- 各大公司往年前端笔试面试题是做练习的好材料
+- 可以找几个志同道合的伙伴一起学习，互相分享

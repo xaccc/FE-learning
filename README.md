@@ -53,29 +53,29 @@
 
 以下是入门阶段不错的书籍和资料
 
-1. HTML方面[HTML5 the missing manual](http://www.amazon.com/HTML5-Missing-Manual-Manuals/dp/1449302394/ref=sr_1_3?s=books&ie=UTF8&qid=1410096659&sr=1-3&keywords=html5+the+missing+manual)，个人感觉非常不错，现在已经出了第二版，推荐这本书作为HTML入门
-2. CSS方面[CSS the missing manual](http://www.amazon.com/CSS-Missing-Manual-Manuals/dp/0596802447/ref=sr_1_2?s=books&ie=UTF8&qid=1410096919&sr=1-2&keywords=css+the+missing+manual)里面也有很多例子，可以进行练习，现在已经出了[CSS3 the missing manual](http://www.amazon.com/CSS3-Missing-David-Sawyer-McFarland/dp/1449325947/ref=sr_1_1?s=books&ie=UTF8&qid=1410096919&sr=1-1&keywords=css+the+missing+manual)，感觉都不错，可以跟着里面的例子进行学习，[CSS: The Definitive Guide（css权威指南）](http://www.amazon.com/CSS-Definitive-Guide-Eric-Meyer/dp/0596527330/ref=sr_1_1?s=books&ie=UTF8&qid=1410097105&sr=1-1&keywords=css+definitive+guide)是需要反复学习的CSS书籍，对CSS2.1规范中重要的内容进行了详细介绍，可以考虑看中文版方便理解
-3. javascript经典入门书籍有[JavaScript: The Definitive Guide（javascript权威指南）](http://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527/ref=sr_1_3?s=books&ie=UTF8&qid=1410097105&sr=1-3&keywords=css+definitive+guide)和[Professional JavaScript for Web Developers（javascript高级程序设计）](http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691/ref=sr_1_1?s=books&ie=UTF8&qid=undefined&sr=1-1&keywords=javascript+professional)，都是很不错的个人建议先看几遍高级程序设计，然后看权威指南（重点是第一部分javascript语言核心）
+1. HTML方面[《HTML5 the missing manual》](http://www.amazon.com/HTML5-Missing-Manual-Manuals/dp/1449302394/ref=sr_1_3?s=books&ie=UTF8&qid=1410096659&sr=1-3&keywords=html5+the+missing+manual)，个人感觉非常不错，现在已经出了第二版，推荐这本书作为HTML入门
+2. CSS方面[《CSS: The Definitive Guide（css权威指南）》](http://www.amazon.com/CSS-Definitive-Guide-Eric-Meyer/dp/0596527330/ref=sr_1_1?s=books&ie=UTF8&qid=1410097105&sr=1-1&keywords=css+definitive+guide)是需要反复学习的CSS书籍，对CSS2.1规范中重要的内容进行了详细介绍，可以考虑看中文版方便理解
+3. javascript先看几遍[《Professional JavaScript for Web Developers（javascript高级程序设计）》](http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691/ref=sr_1_1?s=books&ie=UTF8&qid=undefined&sr=1-1&keywords=javascript+professional)然后[《JavaScript: The Definitive Guide（javascript权威指南）》](http://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527/ref=sr_1_3?s=books&ie=UTF8&qid=1410097105&sr=1-3&keywords=css+definitive+guide)
 4. HTTP自然就是看[HTTP权威指南](http://www.amazon.com/HTTP-Definitive-Guide-Guides/dp/1565925092/ref=sr_1_1?s=books&ie=UTF8&qid=1410097965&sr=1-1&keywords=http+the+definitive+guide)
 5. 在整个学习过程中HTML CSS JavaScript会有很多地方需要互相结合，实际工作中也是这样，一个简单的功能模块都需要三者结合才能实现。
-6. 动手是学习的重要组成部分，书籍重点讲解知识点，例子可能不是很充足，这就需要利用搜索引擎寻找一些简单教程，照着教程实现功能。以下是一些个人常用的教程网址
+6. 动手是学习的重要组成部分，书籍重点讲解知识点，例子可能不是很充足，这就需要利用搜索引擎寻找一些简单教程，照着教程实现功能。以下是一些比较好的教程网址
     - CSS各种布局[http://blog.html.it/layoutgala/](http://blog.html.it/layoutgala/)
-    - 可以搜索各大公司前端校招笔试面试题作为练习题或者他人总结的[前端面试题](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
+    - 可以搜索各大公司前端校招笔试面试题作为练习题或者他人总结的[前端面试题](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)还有[个人总结的面试题](https://github.com/qiu-deqing/FE-interview)（带参考答案）
     - [http://code.tutsplus.com](http://code.tutsplus.com/categories/javascript)有各种各样的教程
     - [MDN](https://developer.mozilla.org/en-US/docs/Web)也有很多教程，更重要的是里面有详细的文档，需要查找某个功能时在Google搜索：xxx site:https://developer.mozilla.org
     - [www.html5rocks.com](http://www.html5rocks.com/zh/tutorials/?page=1)也有很多优质教程
     - [www.sitepoint.com](http://www.sitepoint.com/javascript/)
     - [http://alistapart.com/](http://alistapart.com/)
-7. 原生javascript是学习前端需要重点掌握的技能，在掌握原生javascript的基础上推荐熟练掌握jQuery，在实际工作中用处很大，这方面的书籍有[Pro jQuery](http://www.amazon.com/Pro-jQuery-Experts-Voice-Development/dp/1430263881/ref=sr_1_1?s=books&ie=UTF8&qid=1410099103&sr=1-1&keywords=pro+jquery)和[Learning jQuery](http://www.amazon.com/Learning-jQuery-Fourth-Jonathan-Chaffer/dp/178216314X/ref=sr_1_1?s=books&ie=UTF8&qid=1410099243&sr=1-1&keywords=learning+jquery)
-8. 可以将自己的代码放到[https://github.com/](https://github.com/)上。建一个github账号，保存平时学习中的各种代码和项目也是很不错的。
-9. 有了一定基础之后可以搭建一个个人博客，记录学习过程中遇到的问题和解决方法，方便自己查阅也为其他人提供了帮助。最简单的方法就是去类似[http://www.cnblogs.com/](http://www.cnblogs.com/)或者[http://www.csdn.net/](http://www.csdn.net/)这样的网站注册账号，方便实用
+7. 原生javascript是学习前端需要重点掌握的技能，在掌握原生javascript的基础上推荐熟练掌握jQuery，在实际工作中用处很大，这方面的书籍有[《Pro jQuery》](http://www.amazon.com/Pro-jQuery-Experts-Voice-Development/dp/1430263881/ref=sr_1_1?s=books&ie=UTF8&qid=1410099103&sr=1-1&keywords=pro+jquery)和[《Learning jQuery》](http://www.amazon.com/Learning-jQuery-Fourth-Jonathan-Chaffer/dp/178216314X/ref=sr_1_1?s=books&ie=UTF8&qid=1410099243&sr=1-1&keywords=learning+jquery)
+8. 建一个[https://github.com/](https://github.com/)账号，保存平时学习中的各种代码和项目。
+9. 有了一定基础之后可以搭建一个个人博客，记录学习过程中遇到的问题和解决方法，方便自己查阅也为其他人提供了帮助。也可以去[http://www.cnblogs.com/](http://www.cnblogs.com/)或者[http://www.csdn.net/](http://www.csdn.net/)这样的网站注册账号，方便实用
 10. 经常实用Google搜索英文资料应该经常找到来自[http://stackoverflow.com/](http://stackoverflow.com/)的高质量答案，与到问题可以直接在这里搜索，如果有精力，注册一个账号为别人解答问题也能极大提高个人能力。
 11. 经典书籍熟读之后，可以打开前面必备基础技能部分的链接。认真读对应标准，全面掌握知识
 
 ## 继续提高
 
 有了前面的基础之后，前端基本算是入门了，这时候可能每个人心中都有了一些学习方向，如果还是没有。
-可以参考前面必备技能部分提到的那个项目，从里面选一些进行发展学习。个人觉得以下是一些不错的方面：
+可以参考前面必备技能部分提到的那个项目，从里面选一些进行发展学习。以下是一些不错的方面：
 
 - [Grunt](http://gruntjs.com/)：前端自动化工具，提高工作效率
 - [less css](http://lesscss.org/)：优秀的CSS预处理器
@@ -94,15 +94,15 @@
 
 以下是一些不错的书籍、网站、教程。
 
-- [Ajax完全手册](http://www.amazon.cn/Ajax%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C-%E6%B3%A2%E7%BB%B4%E5%B0%94/dp/B001N6R0Q2/ref=sr_1_2?ie=UTF8&qid=1410104972&sr=8-2&keywords=ajax%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C)：一本Ajax很不错的书，例子多，实现了一个Ajax库
-- [Pro AngularJS](http://www.amazon.com/Pro-AngularJS-Experts-Voice-Development/dp/1430264489/ref=sr_1_1?s=books&ie=UTF8&qid=1410105152&sr=1-1&keywords=pro+angularjs)：AngularJS很好的书籍
-- [Pro jQuery](http://www.amazon.com/Pro-jQuery-Experts-Voice-Development/dp/1430263881/ref=sr_1_1?s=books&ie=UTF8&qid=1410099103&sr=1-1&keywords=pro+jquery)和[Learning jQuery](http://www.amazon.com/Learning-jQuery-Fourth-Jonathan-Chaffer/dp/178216314X/ref=sr_1_1?s=books&ie=UTF8&qid=1410099243&sr=1-1&keywords=learning+jquery)：两本jQuery书籍
-- [精通CSS：高级web标准解决方法](http://www.amazon.com/CSS-Mastery-Advanced-Standards-Solutions/dp/1430223979/ref=sr_1_1?ie=UTF8&qid=1410137090&sr=8-1&keywords=css+mastery+advanced+web+standards+solutions)：CSS实用技能
+- [《Ajax完全手册》](http://www.amazon.cn/Ajax%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C-%E6%B3%A2%E7%BB%B4%E5%B0%94/dp/B001N6R0Q2/ref=sr_1_2?ie=UTF8&qid=1410104972&sr=8-2&keywords=ajax%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C)：一本Ajax很不错的书，例子多，实现了一个Ajax库
+- [《Pro AngularJS》](http://www.amazon.com/Pro-AngularJS-Experts-Voice-Development/dp/1430264489/ref=sr_1_1?s=books&ie=UTF8&qid=1410105152&sr=1-1&keywords=pro+angularjs)：AngularJS很好的书籍
+- [《Pro jQuery》](http://www.amazon.com/Pro-jQuery-Experts-Voice-Development/dp/1430263881/ref=sr_1_1?s=books&ie=UTF8&qid=1410099103&sr=1-1&keywords=pro+jquery)和[Learning jQuery](http://www.amazon.com/Learning-jQuery-Fourth-Jonathan-Chaffer/dp/178216314X/ref=sr_1_1?s=books&ie=UTF8&qid=1410099243&sr=1-1&keywords=learning+jquery)：两本jQuery书籍
+- [《精通CSS：高级web标准解决方法》](http://www.amazon.com/CSS-Mastery-Advanced-Standards-Solutions/dp/1430223979/ref=sr_1_1?ie=UTF8&qid=1410137090&sr=8-1&keywords=css+mastery+advanced+web+standards+solutions)：CSS实用技能
 - [JavaScript Memory Profiling](https://developer.chrome.com/devtools/docs/javascript-memory-profiling?hl=figoogle)
-- [HTML5 canvas](http://www.amazon.com/HTML5-Canvas-Steve-Fulton/dp/1449334989/ref=sr_1_1?ie=UTF8&qid=undefined&sr=8-1&keywords=html5+canvas)：canvas是HTML5带来的一个很棒的特性，可以做很多事情
-- [Pro Node.js for Developers](http://www.amazon.com/Pro-Node-js-Developers-Colin-Ihrig/dp/1430258608/ref=sr_1_1?ie=UTF8&qid=undefined&sr=8-1&keywords=pro+nodejs+for+developers)：node发展太快。里面很多API都过时了，尽量参考官方API，不过还是值得一看
-- [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572/ref=sr_1_1?ie=UTF8&qid=1410138522&sr=8-1&keywords=node+js+in+action)：很不错的Node入门书籍
-- [Single Page Web Applications: JavaScript end-to-end](http://www.amazon.com/Single-Page-Applications-end---end/dp/1617290750/ref=sr_1_1?s=books&ie=UTF8&qid=1410138650&sr=1-1&keywords=single+page+application)：一步步完成简单SPA
+- [《HTML5 canvas》](http://www.amazon.com/HTML5-Canvas-Steve-Fulton/dp/1449334989/ref=sr_1_1?ie=UTF8&qid=undefined&sr=8-1&keywords=html5+canvas)：canvas是HTML5带来的一个很棒的特性，可以做很多事情
+- [《Pro Node.js for Developers》](http://www.amazon.com/Pro-Node-js-Developers-Colin-Ihrig/dp/1430258608/ref=sr_1_1?ie=UTF8&qid=undefined&sr=8-1&keywords=pro+nodejs+for+developers)：node发展太快。里面很多API都过时了，尽量参考官方API，不过还是值得一看
+- [《Node.js in Action》](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572/ref=sr_1_1?ie=UTF8&qid=1410138522&sr=8-1&keywords=node+js+in+action)：很不错的Node入门书籍
+- [《Single Page Web Applications: JavaScript end-to-end》](http://www.amazon.com/Single-Page-Applications-end---end/dp/1617290750/ref=sr_1_1?s=books&ie=UTF8&qid=1410138650&sr=1-1&keywords=single+page+application)：一步步完成简单SPA
 
 
 ## 一些个人经验

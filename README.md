@@ -112,3 +112,13 @@
 - 各大公司往年前端笔试面试题是做练习的好材料
 - 可以找几个志同道合的伙伴一起学习，互相分享
 - 每天实现一个小功能，监督自己学习
+
+## [asd123freedom](https://github.com/asd123freedom)的学习经验
+
+## [sue891206](https://github.com/sue891206)的学习经验
+
+## [Sheetaa](https://github.com/Sheetaa)的学习经验
+
+## [suikaxin](https://github.com/suikaxin)的学习经验
+
+## [quanxi613](https://github.com/quanxi613)的学习经验

@@ -1,10 +1,12 @@
 # FE-learning
 
-结合个人经历总结的前端入门方法，总结从零基础到具备前端基本技能的道路、学习方法、资料。由于个人能力有限，不能保证面面俱到，只是作为入门参考，面向初学者，让初学者少走弯路。
+结合个人经历总结的前端入门方法，总结从零基础到具备前端基本技能的道路、学习方法、资料。由于能力有限，不能保证面面俱到，只是作为入门参考，面向初学者，让初学者少走弯路。
 
-互联网的快速发展和激烈竞争，用户体验成为一个重要的关注点，导致专业前端工程师成为热门职业，各大公司对前端工程师的需求量都很大，优秀的前端工程师更是稀缺。个人感觉前端入门相对容易，在打好基础后坚持学习，成为优秀前端工程师也只是时间问题。
+互联网的快速发展和激烈竞争，用户体验成为一个重要的关注点，导致专业前端工程师成为热门职业，各大公司对前端工程师的需求量都很大，要求也越来越高，优秀的前端工程师更是稀缺。个人感觉前端入门相对容易，在打好基础后坚持学习，成为优秀前端工程师也只是时间问题。
 
 学习任何知识最重要的都是**兴趣**，如果经过一段时间的学习感觉不喜欢，那可能强迫自己学习是很痛苦的，效果也不会好，毕竟这很可能就是以后很多年生存的技能。不过随着互联网行业的发展，前端必然是Web开发人员需要学习的知识，有时候是没有专业前端工程师一起合作的，所以即使不做专门的前端工程师，掌握基本的前端技能为工作带来方便。
+
+后期邀请了一些同学分享学习经历。如果有同学愿意分享，[请联系我](mailto:qiu_deqing@126.com)
 
 ## 必备基础技能
 
@@ -103,22 +105,21 @@
 - [《Pro Node.js for Developers》](http://www.amazon.com/Pro-Node-js-Developers-Colin-Ihrig/dp/1430258608/ref=sr_1_1?ie=UTF8&qid=undefined&sr=8-1&keywords=pro+nodejs+for+developers)：node发展太快。里面很多API都过时了，尽量参考官方API，不过还是值得一看
 - [《Node.js in Action》](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572/ref=sr_1_1?ie=UTF8&qid=1410138522&sr=8-1&keywords=node+js+in+action)：很不错的Node入门书籍
 - [《Single Page Web Applications: JavaScript end-to-end》](http://www.amazon.com/Single-Page-Applications-end---end/dp/1617290750/ref=sr_1_1?s=books&ie=UTF8&qid=1410138650&sr=1-1&keywords=single+page+application)：一步步完成简单SPA
+- [天镶大神的博客](http://lingyu.wang/#/home)
 
 
-## 一些个人经验
+## 一些个人经历
 
-- 动手能力和理论知识都很重要
-- 前端开发有很多细节需要不断积累
-- 各大公司往年前端笔试面试题是做练习的好材料
-- 可以找几个志同道合的伙伴一起学习，互相分享
-- 每天实现一个小功能，监督自己学习
+### [qiu-deqing](https://github.com/qiu-deqing)的学习经历
 
-## [asd123freedom](https://github.com/asd123freedom)的学习经验
+### [asd123freedom](https://github.com/asd123freedom)的学习经历
 
-## [sue891206](https://github.com/sue891206)的学习经验
+### [sue891206](https://github.com/sue891206)的学习经历
 
-## [Sheetaa](https://github.com/Sheetaa)的学习经验
+### [Sheetaa](https://github.com/Sheetaa)的学习经历
 
-## [suikaxin](https://github.com/suikaxin)的学习经验
+### [suikaxin](https://github.com/suikaxin)的学习经历
 
-## [quanxi613](https://github.com/quanxi613)的学习经验
+### [quanxi613](https://github.com/quanxi613)的学习经历
+
+### [LingyuCoder](https://github.com/LingyuCoder)的学习经历
